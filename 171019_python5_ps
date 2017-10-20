@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+python_uppercase = open('pfb2017/files/Python_05.txt', 'r')
+python_read = python_uppercase.read()
+python_upper = python_read.upper()
+print ('python_upper')
